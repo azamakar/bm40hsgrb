@@ -23,6 +23,7 @@
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    KPRepublic
 #define PRODUCT         BM40 Hotswap RGB
+#define TAPPING_TERM 200
 
 /* key matrix size */
 #define MATRIX_ROWS 4
